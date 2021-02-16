@@ -1,0 +1,14 @@
+{
+  "name": "profile-card-component",
+  "version": "1.0.0",
+  "description": "a challenge by frontendmentor.io",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass --watch sass/main-sass.scss style.css"
+  },
+  "author": "Ahmed Magdy Seleem",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.32.7"
+  }
+}
